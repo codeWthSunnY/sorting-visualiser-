@@ -42,5 +42,5 @@ https://github.com/user-attachments/assets/3d66248b-650b-46b6-877a-74a72532d02d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/piyushGit1229/SortingVisualizer.git
+git clone https://github.com/codeWithSunny/sorting-visualiser.git
 cd SortingVisualizer
